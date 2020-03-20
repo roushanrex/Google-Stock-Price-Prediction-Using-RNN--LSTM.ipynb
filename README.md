@@ -1,8 +1,7 @@
 # Google-Stock-Price-Prediction-Using-RNN---LSTM
 Google Stock Price Prediction Using RNN - LSTM
 
-Download the working file: https://github.com/laxmimerit/Google-Stock-Price-Prediction-Using-RNN---LSTM
-
+ 
 ### What is RNN
 Recurrent Neural Networks can Memorize/remember previous inputs in-memory When a huge set of Sequential data is given to it.
 
@@ -16,16 +15,7 @@ Different types of Recurrent Neural Networks.
 - Sequence input and sequence output (e.g. Machine Translation: an RNN reads a sentence in English and then outputs a sentence in French).
 - Synced sequence input and output (e.g. video classification where we wish to label each frame of the video)
 
-
-### Like Facebook Page: 
-https://www.facebook.com/kgptalkie/
-
-## Watch Full Playlists: 
-### Deep Learning with TensorFlow 2.0 Tutorials
-https://www.youtube.com/watch?v=JHNX5ugPa7s&list=PLc2rvfiptPSR3iwFp1VHVJFK4yAMo0wuF
-
-### Feature Selection in Machine Learning using Python
-https://www.youtube.com/playlist?list=PLc2rvfiptPSQYzmDIFuq2PqN2n28ZjxDH
+ 
 
 ### Machine Learning with Theory and Example
 https://www.youtube.com/playlist?list=PLc2rvfiptPSTvPFbNlT_TGRupzKKhJSIv
