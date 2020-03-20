@@ -16,9 +16,3 @@ Different types of Recurrent Neural Networks.
 - Synced sequence input and output (e.g. video classification where we wish to label each frame of the video)
 
  
-
-### Machine Learning with Theory and Example
-https://www.youtube.com/playlist?list=PLc2rvfiptPSTvPFbNlT_TGRupzKKhJSIv
-
-### Make Your Own Automated Email Marketing Software in Python
-https://www.youtube.com/watch?v=gmYuom6kfoY&list=PLc2rvfiptPSQK9ErKaLqf40iu1A3le9Zr
